@@ -7,7 +7,7 @@
         match,
         lastOrient = (win.innerWidth > win.innerHeight),
         lastWidth = win.innerWidth;
-
+alert('3333');
     if (match = ua.match(/Android\s+([\d.]+)/)) {
         platform.android = match[1];
     } else if (ua.match(/\sHTC[\s_].*AppleWebKit/)) {
