@@ -1,4 +1,3 @@
-nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 kkkkkkkkkkkkkkkk
 nnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 ssssssssssssssssssssssss
